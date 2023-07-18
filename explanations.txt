@@ -1,0 +1,17 @@
+Principal:
+The principal is the original amount borrowed for a loan or the original amount invested.In calculating for principal,  divide the interest over the multiplication
+of rate and  time
+
+Rate:
+Rate is the rate of interest at which the principal amount is given to someone for a certain time, the rate of interest can be 5%, 10%, or 13%, etc.In calculating
+for rate,divide the interest over the multiplication principal and time
+
+
+Time:
+This is the period from the beginning when the money was borrowed to the period that when the money should be returned with the additional amount (interest).In
+calclating the time, divide interest over the multiplication of principal and rate
+
+
+Simple Interest:
+Simple interest is an interest charge that borrowers pay lenders for a loan. It is calculated using the principal only and does not include compounding interest.
+In calculating simple interest,multiply the principal by rate and time ,divide result by 100
